@@ -4,6 +4,7 @@ juguando con css arme el isotipo de mi empresa
 
 <svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+     <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             .FL{
               width: 30px;
@@ -132,5 +133,6 @@ juguando con css arme el isotipo de mi empresa
               <div class="L3"></div>
             </div>
         </div>
+       </div>
       </foreignObject>
 </svg>
